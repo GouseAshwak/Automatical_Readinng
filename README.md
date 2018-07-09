@@ -1,4 +1,4 @@
-# Automatical_Readinng
+# Automatical_Reading
 This repository can be used to perform Automatically_reading  the content  form the web browser,
 Example : Wikipedia ,Blog's and Review,s . 
 Based on user voice command  , 
